@@ -95,7 +95,7 @@ function App() {
 
     <>
       <div className="contain bg-[#1B1D1F] w-full  min-h-[100vh] relative  ">
-        <div className="header bg-[url(assets/hero-image-wr.jpg)] w-full h-[30vh] bg-cover bg-bottom bg-no-repeat flex items-center justify-center">
+        <div className="header bg-[url(hero-image-wr.jpg)] w-full h-[30vh] bg-cover bg-bottom bg-no-repeat flex items-center justify-center">
           <img src="public/Logo.svg" alt="" />
         </div>
   {     !change && <div className="main w-[90vw] min-h-[70vh] rounded-lg z-10 m-auto relative bottom-10 bg-[#1B1D1F] p-3">
